@@ -4,38 +4,44 @@ title: 文
 ---
 ___
 
-这里是我写字的地方
 
-## 文字
 
-[成绩说话，就够了吗？](https://book.douban.com/review/13580965/)
+## *文字*
+
+[成绩说话，就够了吗？](https://book.douban.com/review/13580965/)  
 唯才是举、优胜劣汰，似乎是天经地义的事情。但是《公正》一书的作者，鼎鼎大名的哲学家迈克尔·桑德尔却在著作The tyranny of merit中指出：单以成绩论英雄，亦是一种苛刻和霸道。
 
-[拆迁无情，赔偿有道 | 补偿方案的设计智慧](https://zhuanlan.zhihu.com/p/346351556)
+[拆迁无情，赔偿有道 | 补偿方案的设计智慧](https://zhuanlan.zhihu.com/p/346351556)  
 拆迁补偿条款中的行为经济学
 
-## 翻译
+## *翻译*
 
 <p class="message">
   从墙上取下砖，拿来造桥
 </p>
 
+> 从墙上取下砖，拿来造桥
 
 [切蒂教授与美国梦的复兴 | The Atlantic](https://zhuanlan.zhihu.com/p/156046113)  
 哈佛经济学教授拉杰·切蒂接受《大西洋月刊》专访
 
-[陶哲轩无与伦比的头脑 | New York Times](https://zhuanlan.zhihu.com/p/60879082)
+[陶哲轩无与伦比的头脑 | New York Times](https://zhuanlan.zhihu.com/p/60879082)  
 研究数学，像是同魔鬼下棋
 
-[望向星辰大海的中国眼睛 | The Atlantic](https://zhuanlan.zhihu.com/p/38805430)
+[望向星辰大海的中国眼睛 | The Atlantic](https://zhuanlan.zhihu.com/p/38805430)  
 大名鼎鼎的科幻作家刘慈欣受中国科学院邀请，前往参观新近完工的FAST天眼
 
-## 诗文
+[沪上絮语 | The Atlantic] (https://zhuanlan.zhihu.com/p/498817952)
+Te-ping Chen的短篇小说 
+
+## *诗文*
 <p class="message">
   万宝路换走现金 背靠沉默的树木 血管里流淌泪水 扑灭点燃肺叶的烟火 吻别后跺成尘土
 </p>
 
 Melancholy by Edvard Munch
+插入图片Markdown语法代码：![图片alt](图片链接 "图片title")。
+对应的HTML代码：<img src="图片链接" alt="图片alt" title="图片title">
 
 ### 担心
 
@@ -51,6 +57,7 @@ Melancholy by Edvard Munch
 今天，我担心没法为真理贡献哪怕一个注脚，我担心真理只是好奇之人的宗教  
 
 最后，我担心所有的担心都是多余的，也担心这所有的担心都确实成真了。 
+ 
 
 ### 我们不再抬头看星星了，因为……
 
@@ -75,8 +82,6 @@ Melancholy by Edvard Munch
 
 春天，向天空喊话的人太多了， 云彩来不及一一 用形状的变换，回答这些大问题。 才有了黄昏的雷雨，把每一块可以眺望的玻璃 变成告解亭。 水珠前赴后继，改道又合流，追逐嬉戏 洗刷掉眼底的泥泞。 也是天公的信笔， 歪歪扭扭的宽宥和慰藉。 过于诚恳的是那钟声，带着铁锈的气味，传遍了整个镇， 六楼就能尽收眼底的镇。 过度乐观的是那霓虹灯，在寂寥的底色里，越发引诱人， 心事太重的人。
 
-[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
+更多请移步[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
+ 
 
-[沪上絮语 | The Atlantic] (https://zhuanlan.zhihu.com/p/498817952)
-
-(https://zhuanlan.zhihu.com/p/76937410)
