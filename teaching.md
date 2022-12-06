@@ -2,23 +2,23 @@
 layout: page
 title: Teaching
 ---
-Intro to Microeconomics *Teaching Fellow*
+Intro to Microeconomics *Teaching Fellow*  
 EC101 Boston University (Spring & Fall 2022)
 
-Intermediate Micro *Teaching Fellow*
+Intermediate Micro *Teaching Fellow* <br>
 UA10 New York University (Fall 2021 Go Local Program @ NYU Shanghai )
 
-Microeconomics EC501 *Teaching Fellow*
+Microeconomics (Master) *Teaching Fellow* <br>
 EC501 Boston University (Fall 2021)
 
 
-Economics of Sports *Teaching Assistant*
+Economics of Sports *Teaching Assistant* <br>
 EC385 Boston University (Fall 2019)
 
-Evironmental economics *Teaching Assistant*
+Evironmental economics *Teaching Assistant* <br>
 EC371 Boston University (Fall 2019)
 
-Intermediate Micro *Teaching Assistant*
+Intermediate Micro *Teaching Assistant* <br>
 EC201 Boston University (Spring 2020)
 
 
