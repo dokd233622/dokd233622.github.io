@@ -1,7 +1,18 @@
 ---
 layout: page
-title: about_dup
+title: Research
 ---
+
+
+## Project 1
+
+*Joint with sb.*
+Some fun facts about the setup of this project include:
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Atom](https://atom.io)
+
+
 
 <p class="message">
   Hey there! This page is included as an example . 改了一下下
@@ -26,4 +37,3 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
