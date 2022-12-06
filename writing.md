@@ -5,24 +5,27 @@ title: 文
 
 我写字的地方
 
-### 文字
+## 文字
 
-### 翻译
+[拆迁无情，赔偿有道 | 补偿方案的设计智慧](https://zhuanlan.zhihu.com/p/346351556)
+
+## 翻译
 
 [天才拉杰和美国梦的衰落 | The Atlantic](https://zhuanlan.zhihu.com/p/151137274)
 
-陶哲轩无与伦比的头脑 | New York Times
-https://zhuanlan.zhihu.com/p/60879082
+[切蒂教授与美国梦的复兴 | The Atlantic](https://zhuanlan.zhihu.com/p/156046113)
+哈佛经济学教授拉杰·切蒂接受《大西洋月刊》专访
 
-望向星辰大海的中国眼睛 | The Atlantic
-https://zhuanlan.zhihu.com/p/38805430
+[陶哲轩无与伦比的头脑 | New York Times](https://zhuanlan.zhihu.com/p/60879082)
+
+[望向星辰大海的中国眼睛 | The Atlantic](https://zhuanlan.zhihu.com/p/38805430)
 
 
-### 诗文
+## 诗文
 
 Melancholy by Edvard Munch
 
-### 担心
+## 担心
 
 小时候，我担心太阳的寿命，海平面的上涨，外星人的造访
 上了学，我担心国家不够争鸣齐放，社会不够宽容体谅
@@ -39,4 +42,6 @@ Melancholy by Edvard Munch
 
 [豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
 
-沪上絮语 | The Atlantic
+[沪上絮语 | The Atlantic] (https://zhuanlan.zhihu.com/p/498817952)
+
+(https://zhuanlan.zhihu.com/p/76937410)
