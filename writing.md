@@ -24,11 +24,11 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 > 从墙上取下砖，拿来造桥
 <br>
 
+[**陶哲轩无与伦比的头脑 | New York Times**](https://zhuanlan.zhihu.com/p/60879082)  
+研究数学，像是同魔鬼下棋
+
 [切蒂教授与美国梦的复兴 | The Atlantic](https://zhuanlan.zhihu.com/p/156046113)  
 哈佛经济学教授拉杰·切蒂接受《大西洋月刊》专访
-
-[陶哲轩无与伦比的头脑 | New York Times](https://zhuanlan.zhihu.com/p/60879082)  
-研究数学，像是同魔鬼下棋
 
 [望向星辰大海的中国眼睛 | The Atlantic](https://zhuanlan.zhihu.com/p/38805430)  
 大名鼎鼎的科幻作家刘慈欣受中国科学院邀请，前往参观新近完工的FAST天眼
@@ -37,17 +37,13 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 Te-ping Chen的短篇小说 
 
 ## **文艺**
-<p class="message">
-  万宝路换走现金 <br>  
-  背靠沉默的树木 <br>  
-  血管里流淌泪水  <br> 
-  扑灭点燃肺叶的烟火  <br>
-  吻别后跺成尘土 <br> 
-</p>
 
-Melancholy by Edvard Munch
-插入图片Markdown语法代码：![图片alt](图片链接 "图片title")。
+
+
+
+![Melancholy by Edvard Munch](\assets\)。
 对应的HTML代码：<img src="图片链接" alt="图片alt" title="图片title">
+Melancholy by Edvard Munch
 
 <br>
 ### **《担心》**
@@ -92,13 +88,26 @@ Melancholy by Edvard Munch
 <br>
 春天，向天空喊话的人太多了，   
 云彩来不及一一 用形状的变换，回答这些大问题。   
-才有了黄昏的雷雨，把每一块可以眺望的玻璃 变成告解亭。   
+才有了黄昏的雷雨，把每一块可以眺望的玻璃 变成告解亭。 
+
 水珠前赴后继，改道又合流，追逐嬉戏 洗刷掉眼底的泥泞。  
 也是天公的信笔， 歪歪扭扭的宽宥和慰藉。  
+
 过于诚恳的是那钟声，带着铁锈的气味，传遍了整个镇，   
-六楼就能尽收眼底的镇。   
+六楼就能尽收眼底的镇。  
+
 过度乐观的是那霓虹灯，在寂寥的底色里，越发引诱人，   
 心事太重的人。  
+
+
+<p class="message">
+  万宝路换走现金 <br>  
+  背靠沉默的树木 <br>  
+  血管里流淌泪水  <br> 
+  扑灭点燃肺叶的烟火  <br>
+  吻别后跺成尘土 <br> 
+</p>
+
 
 更多请移步[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
  
