@@ -41,9 +41,8 @@ Te-ping Chen的短篇小说
 
 
 
-![Melancholy by Edvard Munch](\assets\)。
-对应的HTML代码：<img src="图片链接" alt="图片alt" title="图片title">
-Melancholy by Edvard Munch
+![Melancholy by Edvard Munch](\assets\melancholy.webp)
+
 
 <br>
 ### **《担心》**
