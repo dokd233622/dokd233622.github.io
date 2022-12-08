@@ -20,7 +20,6 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 <br>
 ## **翻译**
 <br>
-
 > 从墙上取下砖，拿来造桥
 <br>
 
@@ -33,15 +32,13 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 [望向星辰大海的中国眼睛 | The Atlantic](https://zhuanlan.zhihu.com/p/38805430)  
 大名鼎鼎的科幻作家刘慈欣受中国科学院邀请，前往参观新近完工的FAST天眼
 
-[沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
-Te-ping Chen的短篇小说 
+
 
 ## **文艺**
 
 
-
-
-![Melancholy by Edvard Munch](\assets\melancholy.webp)
+[沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
+Te-ping Chen的短篇小说 
 
 
 <br>
@@ -60,6 +57,9 @@ Te-ping Chen的短篇小说
 今天，我担心没法为真理贡献哪怕一个注脚，我担心真理只是好奇之人的宗教  
 
 最后，我担心所有的担心都是多余的，也担心这所有的担心都确实成真了。 
+ 
+![Melancholy by Edvard Munch](\assets\melancholy.png)
+
  
 <br>
 ### **《我们不再抬头看星星了，因为……》**
@@ -81,7 +81,10 @@ Te-ping Chen的短篇小说
 我们不再抬头看星星了，  
 低头盯着手机闪烁，从未听说康德的道德律令。  
 日头西沉，城市急不可耐地点亮，  
-硫磺色云朵的缝隙间，星光哑然失色。  
+硫磺色云朵的缝隙间，星光哑然失色。 
+
+![隆河星夜](\assets\Rhone.png)
+
 <br>
 ### **《雷雨的信笔》**  
 <br>
@@ -98,13 +101,15 @@ Te-ping Chen的短篇小说
 过度乐观的是那霓虹灯，在寂寥的底色里，越发引诱人，   
 心事太重的人。  
 
+![隆河星夜](\assets\rain.png)
 
 <p class="message">
-  万宝路换走现金 <br>  
-  背靠沉默的树木 <br>  
-  血管里流淌泪水  <br> 
+  《五行》
+      万宝路换走现金 <br>  
+      背靠沉默的树木 <br>  
+      血管里流淌泪水  <br> 
   扑灭点燃肺叶的烟火  <br>
-  吻别后跺成尘土 <br> 
+      吻别后跺成尘土 <br> 
 </p>
 
 
