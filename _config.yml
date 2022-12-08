@@ -1,7 +1,7 @@
 # Setup
-title:               Masterbranch
-tagline:             'change 120611pm'
-description:         "CHEN Junhao's Personal page" # 'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               CHEN Junhao
+tagline:             '陈俊豪'
+description:         "CHEN Junhao's Personal Page" # 'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://dokd233622.github.io
 baseurl:             ''
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              CHEN Junhao
+  url:               https://twitter.com/Forrest_CJ
+  email:             chenjh@bu.edu
 
 # Gems
 plugins:
