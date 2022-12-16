@@ -20,7 +20,7 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 <br>
 ## **翻译**
 <br>
-> 从墙上取下砖，拿来造桥
+> 从墙上取下砖，拿来造桥 <br>
 <br>
 
 [**陶哲轩无与伦比的头脑 | New York Times**](https://zhuanlan.zhihu.com/p/60879082)  
@@ -33,13 +33,8 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 大名鼎鼎的科幻作家刘慈欣受中国科学院邀请，前往参观新近完工的FAST天眼
 
 
-
+<br>
 ## **文艺**
-
-
-[沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
-Te-ping Chen的短篇小说 
-
 
 <br>
 ### **《担心》**
@@ -103,15 +98,9 @@ Te-ping Chen的短篇小说
 
 ![隆河星夜](\assets\rain.png)
 
-<p class="message">
-  《五行》
-      万宝路换走现金 <br>  
-      背靠沉默的树木 <br>  
-      血管里流淌泪水  <br> 
-  扑灭点燃肺叶的烟火  <br>
-      吻别后跺成尘土 <br> 
-</p>
-
+<br>
+[沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
+Te-ping Chen的短篇小说 
 
 更多请移步[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
  
