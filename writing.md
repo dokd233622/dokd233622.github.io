@@ -20,9 +20,9 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 <br>
 ## **翻译**
 <br>
-> 从墙上取下砖，拿来造桥 <br>
-<br>
+> 从墙上取下砖，拿来造桥
 
+<br>
 [**陶哲轩无与伦比的头脑 | New York Times**](https://zhuanlan.zhihu.com/p/60879082)  
 研究数学，像是同魔鬼下棋
 
@@ -101,7 +101,8 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 <br>
 [沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
 Te-ping Chen的短篇小说 
-
+ 
+___
 更多请移步[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
  
 
