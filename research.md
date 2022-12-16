@@ -3,8 +3,33 @@ layout: page
 title: Research
 ---
 
+## Elite College Premium and Target Setting in Online Medical Crowdfunding 
 
-## Project 1
+By looking into fundraising campaigns with college disclosed, 
+* I found Fundraisers from elite college gets more donations
+* Evaluated network effect, ability effect, and donor preference separately
+
+By exploring the donations immediately before and after a modification in fundraising target, 
+* I identified how current target(progress) affects donation
+* Disentagled the preference for completion and effect of preceived quality
+
+![Better University, Better Outcomes](/assets/byguanxi_wcontrol.png))
+
+
+## Identifying Policies from Text
+
+*Joint with [Yiming Cao](https://www.yimingcao.com)*  
+We collected a large dataset of official (red-header) documents in China
+
+* Classified the documents into topics by ML techniques
+* Depicted the patterns of policy creation and diffusion
+* Associated the patterns with regional development characteristics and promotion incentives of local leaders
+
+![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png))
+
+
+
+## Project X
 
 *Joint with sb.*  
 Some fun facts about the setup of this project include:
@@ -17,26 +42,9 @@ Some fun facts about the setup of this project include:
 
 
 
+
 <p class="message">
-  Hey there! This page is included as an example . 改了一下下
+  Hey there! Welcome!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
