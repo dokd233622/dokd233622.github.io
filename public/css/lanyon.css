@@ -144,8 +144,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: 0 rem;
-  width: 12rem;
+  left:  -14 rem;
+  width: 14 rem;
   visibility: visible;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
