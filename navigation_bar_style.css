@@ -1,13 +1,30 @@
+
+.navbar {
+  list-style-type: none;
+  margin: 0 auto; /* Add auto to margin to center align navbar */
+  padding: 0; /* Remove padding */
+  overflow: hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+  max-width: 1200px; /* Set a max-width similar to your main content */
+  width: 100%;
+  box-sizing: border-box; /* Add this to include padding and border in element's total width */
+}
+/*from gpt */
+
+/*
 .navbar {
   list-style-type: none;
   margin: 0;
-  padding-left: 14px; /* padding: 0; */
+  padding-left: 14px; 
   overflow: hidden;
   background-color: #333;
   position: sticky;
   top: 0;
   width: 100%;
 }
+*/
 
 .nav-item {
   float: left;
