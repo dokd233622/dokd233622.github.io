@@ -5,7 +5,7 @@ title: Research
 
 ___
 
-## Elite College Premium and Target Setting in Online Medical Crowdfunding 
+### Elite College Premium and Target Setting in Online Medical Crowdfunding 
  
 <br>
 * Scraped 14K fundraising campaigns profiles 
@@ -20,12 +20,13 @@ ___
 ![Better University, Better Outcomes](/assets/byguanxi_wcontrol.png)
 
 <br>
-## Identifying Policies from Text 
- 
+### Social Learning in Policy Making 
+
 <br>
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
+*[Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)*  
 * Collected a large dataset of official (red-header) documents in China
-* Classified the documents into topics by ML techniques
+* Identified policies from document topics classified by BERT
 * Depicted the patterns of policy creation and diffusion
 * Associated the patterns with regional development characteristics and promotion incentives of local leaders
 <br> 
