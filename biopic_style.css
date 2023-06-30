@@ -1,0 +1,16 @@
+.profile-container {
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #333;
+    border-radius: 50%;
+}
+
+.profile-bio {
+    margin-top: 10px;
+}
