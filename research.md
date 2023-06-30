@@ -14,7 +14,7 @@ ___
 
 * Examined the donations immediately before and after a modification in fundraising target, 
 * Identified how current target(progress) affects donation
-* Disentagled the preference for completion and effect of preceived quality
+* Disentagled the preference for completion and effect of perceived quality
 <br> 
 
 ![Better University, Better Outcomes](/assets/byguanxi_wcontrol.png)
@@ -23,8 +23,8 @@ ___
 ### Social Learning in Policy Making 
 
 <br>
-*Joint with [Yiming Cao](https://www.yimingcao.com)*  
-*[Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)*  
+* Joint with [Yiming Cao](https://www.yimingcao.com)*  
+* Download [Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)*  
 * Collected a large dataset of official (red-header) documents in China
 * Identified policies from document topics classified by BERT
 * Depicted the patterns of policy creation and diffusion
