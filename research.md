@@ -24,7 +24,7 @@ ___
 
 <br>
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
-<I> Joint with [Yiming Cao](https://www.yimingcao.com)     Download [Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)</i>
+<i>Download [Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)</i>
 * Collected a large dataset of official (red-header) documents in China
 * Identified policies from document topics classified by BERT
 * Depicted the patterns of policy creation and diffusion
