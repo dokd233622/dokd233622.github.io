@@ -5,13 +5,13 @@
   /*padding: 0;  */
   overflow: hidden;
   background-color: #333;
-  /*position: sticky;*/
+  position: sticky;
   top: 0;
-  max-width: 1200px; /* Set a max-width similar to your main content 
+  max-width: 1200px; /* Set a max-width similar to your main content */
   width: 100%;
   box-sizing: border-box; /* Add this to include padding and border in element's total width */
   padding: 15px 30px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 */ 
-  position: relative; /* from StackOverflow */
+  /*position: relative; from StackOverflow */
   text-align: left; /* from stackoverflow */
 }
 /*from gpt */
