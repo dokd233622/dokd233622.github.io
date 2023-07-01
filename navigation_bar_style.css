@@ -2,16 +2,20 @@
 .navbar {
   list-style-type: none;
   margin: 0 auto; /* Add auto to margin to center align navbar */
-  padding: 0; /* Remove padding */
+  /*padding: 0;  */
   overflow: hidden;
   background-color: #333;
-  position: sticky;
+  /*position: sticky;*/
   top: 0;
-  max-width: 1200px; /* Set a max-width similar to your main content */
+  max-width: 1200px; /* Set a max-width similar to your main content 
   width: 100%;
   box-sizing: border-box; /* Add this to include padding and border in element's total width */
+  padding: 15px 0px; /* from stackoverflow */
+  position: relative; /* from StackOverflow */
+  text-align: left; /* from stackoverflow */
 }
 /*from gpt */
+
 
 /*
 .navbar {
