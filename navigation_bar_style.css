@@ -10,7 +10,7 @@
   max-width: 1200px; /* Set a max-width similar to your main content 
   width: 100%;
   box-sizing: border-box; /* Add this to include padding and border in element's total width */
-  padding: 15px 0px; /* from stackoverflow */
+  padding: 40px 0px; /* from stackoverflow */
   position: relative; /* from StackOverflow */
   text-align: left; /* from stackoverflow */
 }
