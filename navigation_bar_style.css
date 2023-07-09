@@ -1,4 +1,5 @@
 
+/*
 .navbar {
   list-style-type: none;
   margin: 0 auto; /* Add auto to margin to center align navbar */
@@ -13,7 +14,28 @@
   padding: 5px 120px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 */ 
   /*position: relative; from StackOverflow */
   text-align: left; /* from stackoverflow */
-}
+} 
+*/
+
+
+#nav ul {
+      width: 100%;
+      padding: 0;
+      background: #333;
+      display: flex;
+    }
+    #nav ul li {
+      display: inline;
+      box-sizing: border-box;
+      min-width: 100px;
+      max-width: 133px;
+      padding: 5px 10px; /* only to make it look better */
+    }
+    #nav ul li:last-child {
+      margin-left: auto;
+      text-align: right;
+    }
+
 /*from gpt */
 
 
