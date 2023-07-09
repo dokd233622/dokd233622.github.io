@@ -14,7 +14,7 @@ padding: 5px 120px; /* from stackoverflow 似乎第一个参数是纵向 第二�
 text-align: left; /* from stackoverflow */
 }
 
-
+/*from https://stackoverflow.com/questions/41560136/how-to-align-all-but-one-navbar-items-left-starting-at-left-margin-with-fixed */
 #nav ul {
   width: 100%;
   padding: 0;
@@ -34,6 +34,13 @@ text-align: left; /* from stackoverflow */
   float: right;
   text-align: right;
 }
+
+#nav nav-item:last-child {
+  float: right;
+  text-align: right;
+}
+
+/*end */
 
 /*from gpt */
 
