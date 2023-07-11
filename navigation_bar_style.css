@@ -67,7 +67,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
     list-style-type: none;
     
     background-color: #333; /**/
-    margin: 0 auto;
+    margin: 0 auto; /*此行重要*/
 /*     overflow: hidden; */
   /*     width: 100%;
     padding: 0; */
@@ -77,7 +77,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 /* li 是button 的外面包的一圈*/
 .right-side li, .left-side li{
   display: inline-block;
-   /*float: left;*/ /*深夜改*/
+  float: left; /*深夜改*/
   list-style: none;
   box-sizing: border-box;
   min-width: 100px;
