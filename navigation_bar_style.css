@@ -12,6 +12,8 @@ box-sizing: border-box; /* Add this to include padding and border in element's t
 padding: 5px 120px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 */
 /*position: relative; from StackOverflow */
 text-align: left; /* from stackoverflow */
+    
+justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/blob/main/left_right_menu/styles.css  */
 }
 
 /*from https://stackoverflow.com/questions/41560136/how-to-align-all-but-one-navbar-items-left-starting-at-left-margin-with-fixed */
