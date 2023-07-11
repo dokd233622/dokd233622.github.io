@@ -7,7 +7,7 @@ background-color: #333; /* 深灰色 */
 position: sticky; /*网页拖下去也保持在原位*/
 /*position: relative; from StackOverflow */  
 top: 0;
-max-width: 1300px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
+max-width: 1250px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
 width: 100%;
 box-sizing: border-box; /* Add this to include padding and border in element's total width */
 padding: 5px 100px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
@@ -78,12 +78,12 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 .right-side li, .left-side li{
   display: inline-block;
    /*float: left;*/ /*深夜改*/
-/*list-style: none;
+  list-style: none;
   box-sizing: border-box;
   min-width: 100px;
   max-width: 133px;
-  padding: 5px 10px;  */
-/*   padding: 15px 20px;   */
+  padding: 5px 10px; 
+
   box-sizing: border-box;
   background-color: #333; /**/
 
