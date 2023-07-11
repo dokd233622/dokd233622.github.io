@@ -37,6 +37,17 @@ text-align: left; /* from stackoverflow */
 
 /*end */
 
+/*
+/* target the ul and remove the bullets */
+.right-side, .left-side{
+    list-style-type: none;
+}
+/* change li display property from block to inline block */
+.right-side li, .left-side li{
+    display: inline-block;
+}
+*/
+
 /*from gpt */
 
 
