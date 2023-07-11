@@ -6,7 +6,7 @@ overflow: hidden;
 background-color: #333; /* 深灰色 */
 position: sticky; /*网页拖下去也保持在原位*/
 top: 0;
-max-width: 1200px; /* Set a max-width similar to your main content */
+/* max-width: 1200px; */ /* Set a max-width similar to your main content */ 
 width: 100%;
 box-sizing: border-box; /* Add this to include padding and border in element's total width */
 padding: 5px 120px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 */
