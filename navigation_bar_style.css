@@ -94,12 +94,13 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   display: block;
   color: white;
   text-align: center;
-  padding: 12px 16px;
+  padding: 12px 14px;
   text-decoration: none;
 }
 /* 按钮的文字 悬停时候*/
 .right-side li a:hover, .left-side li a:hover  {
   background-color: #111; /*悬停变黑色*/
+  text-decoration: underline;
 }
 
 
