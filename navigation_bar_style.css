@@ -10,7 +10,7 @@ top: 0;
 max-width: 1500px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
 width: 100%;
 box-sizing: border-box; /* Add this to include padding and border in element's total width */
-padding: 5px 600px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 */
+padding: 5px 200px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
 /*position: relative; from StackOverflow */
 text-align: left; /* from stackoverflow */
 
@@ -18,6 +18,7 @@ display: flex;  /* from https://github.com/SalarAsker/csstips/blob/main/left_rig
 justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/blob/main/left_right_menu/styles.css  */
 }
 
+/*
 /*from https://stackoverflow.com/questions/41560136/how-to-align-all-but-one-navbar-items-left-starting-at-left-margin-with-fixed */
 #nav ul {
   width: 100%;
@@ -25,15 +26,15 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   /* background-color: #ccc;*/ /*深夜改*/
   overflow: hidden;
 }
-#nav ul li {
+/* #nav ul li {
   float: left;
   list-style: none;
   box-sizing: border-box;
   min-width: 100px;
   max-width: 133px;
   padding: 5px 10px;
+} */
   /* only to make it look better */
-}
 
 /* #nav ul li:last-child {
   float: right;
