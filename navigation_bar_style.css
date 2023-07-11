@@ -51,6 +51,11 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 .right-side li, .left-side li{
     display: inline-block;
 
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
 
 }
 */
