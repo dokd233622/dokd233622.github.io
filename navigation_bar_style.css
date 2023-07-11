@@ -21,7 +21,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 #nav ul {
   width: 100%;
   padding: 0;
-  background-color: #ccc;
+  /* background-color: #ccc;*/ /*深夜改*/
   overflow: hidden;
 }
 #nav ul li {
@@ -55,7 +55,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 /* change li display property from block to inline block */
 .right-side li, .left-side li{
     display: inline-block;
-   float: left;
+   /*float: left;*/ /*深夜改*/
   list-style: none;
   box-sizing: border-box;
   min-width: 100px;
