@@ -10,7 +10,7 @@ top: 0;
 max-width: 1200px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
 width: 100%;
 box-sizing: border-box; /* Add this to include padding and border in element's total width */
-padding: 5px 80px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
+padding: 5px 65px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
 /*position: relative; from StackOverflow */
 text-align: left; /* from stackoverflow */
 
