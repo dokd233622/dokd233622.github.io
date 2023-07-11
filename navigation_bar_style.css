@@ -51,12 +51,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 .right-side li, .left-side li{
     display: inline-block;
 
-  float: left;
-  list-style: none;
-  box-sizing: border-box;
-  min-width: 100px;
-  max-width: 133px;
-  padding: 5px 10px;
+
 }
 */
 
