@@ -41,7 +41,6 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 
 /*end */
 
-
 /* target the ul and remove the bullets */
 .right-side, .left-side{
     list-style-type: none;
