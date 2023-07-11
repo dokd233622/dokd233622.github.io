@@ -7,10 +7,10 @@ background-color: #333; /* 深灰色 */
 position: sticky; /*网页拖下去也保持在原位*/
 /*position: relative; from StackOverflow */  
 top: 0;
-max-width: 1500px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
+max-width: 1350px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
 width: 100%;
 box-sizing: border-box; /* Add this to include padding and border in element's total width */
-padding: 5px 200px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
+padding: 5px 125px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
 /*position: relative; from StackOverflow */
 text-align: left; /* from stackoverflow */
 
@@ -47,18 +47,18 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 .right-side, .left-side{
     list-style-type: none;
   
-    width: 100%;
-    padding: 0;
+/*     width: 100%;
+    padding: 0; */
     background-color: #333; /**/
-    overflow: hidden;
+/*     overflow: hidden; */
 
 }
 /* change li display property from block to inline block */
 /* li 是button 的外面包的一圈*/
 .right-side li, .left-side li{
-    display: inline-block;
+  display: inline-block;
    /*float: left;*/ /*深夜改*/
-/*   list-style: none;
+/*list-style: none;
   box-sizing: border-box;
   min-width: 100px;
   max-width: 133px;
@@ -72,7 +72,7 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 14px 18px;
   text-decoration: none;
 }
 /* 按钮的文字 悬停时候*/
