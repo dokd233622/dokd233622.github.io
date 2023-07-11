@@ -45,14 +45,15 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 /* target the ul and remove the bullets */
 .right-side, .left-side{
     list-style-type: none;
-
+  
     width: 100%;
     padding: 0;
-    background-color: #ccc;
+    background-color: #333; /**/
     overflow: hidden;
 
 }
 /* change li display property from block to inline block */
+/* li 是button 的外面包的一圈*/
 .right-side li, .left-side li{
     display: inline-block;
    /*float: left;*/ /*深夜改*/
@@ -61,10 +62,11 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   min-width: 100px;
   max-width: 133px;
   padding: 5px 10px; 
+  background-color: #333; /**/
 
 }
 
-
+/* 按钮的文字 */
 .right-side li a, .left-side li a{
   display: block;
   color: white;
@@ -72,9 +74,9 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   padding: 14px 20px;
   text-decoration: none;
 }
-
+/* 按钮的文字 悬停时候*/
 .right-side li a:hover, .left-side li a:hover  {
-  background-color: #111;
+  background-color: #111; /*悬停变黑色*/
 }
 
 
