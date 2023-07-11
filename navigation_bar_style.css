@@ -26,20 +26,38 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   /* background-color: #ccc;*/ /*深夜改*/
   overflow: hidden;
 }
-/* #nav ul li {
+ #nav ul li {
   float: left;
   list-style: none;
   box-sizing: border-box;
   min-width: 100px;
   max-width: 133px;
   padding: 5px 10px;
-} */
+} 
   /* only to make it look better */
 
 /* #nav ul li:last-child {
   float: right;
   text-align: right;
 } */
+
+.nav-item {
+  float: left;
+}
+
+.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  background-color: #111;
+}
+
+
 
 /*左右分栏在此开始 */
 
@@ -98,20 +116,5 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 }
 */
 
-.nav-item {
-  float: left;
-}
-
-.nav-item a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
-}
-
-.nav-item a:hover {
-  background-color: #111;
-}
 
 
