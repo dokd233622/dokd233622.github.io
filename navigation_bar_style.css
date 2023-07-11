@@ -3,7 +3,7 @@ list-style-type: none;
 margin: 0 auto; /* Add auto to margin to center align navbar */
 /*padding: 0; */
 overflow: hidden;
-background-color: #333;
+background-color: #333; /* 深灰色 */
 position: sticky; /*网页拖下去也保持在原位*/
 top: 0;
 max-width: 1200px; /* Set a max-width similar to your main content */
@@ -33,10 +33,11 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
   padding: 5px 10px;
   /* only to make it look better */
 }
-#nav ul li:last-child {
+
+/* #nav ul li:last-child {
   float: right;
   text-align: right;
-}
+} */
 
 /*end */
 
@@ -44,6 +45,12 @@ justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/b
 /* target the ul and remove the bullets */
 .right-side, .left-side{
     list-style-type: none;
+  float: left;
+  list-style: none;
+  box-sizing: border-box;
+  min-width: 100px;
+  max-width: 133px;
+  padding: 5px 10px;
 }
 /* change li display property from block to inline block */
 .right-side li, .left-side li{
