@@ -1,0 +1,125 @@
+.navbar {
+list-style-type: none;
+margin: 0 auto; /* Add auto to margin to center align navbar */
+/*padding: 0; */
+overflow: hidden;
+background-color: #333; /* 深灰色 */
+position: sticky; /*网页拖下去也保持在原位*/
+/*position: relative; from StackOverflow */  
+top: 0;
+max-width: 1200px;  /* Set a max-width similar to your main content 调小就变短了 但是黑色的部分会变短？所以不如加padding? */  
+width: 100%;
+box-sizing: border-box; /* Add this to include padding and border in element's total width */
+padding: 10px 30px; /* from stackoverflow 似乎第一个参数是纵向 第二个才是横向 注意两侧都会padding！ */
+/*position: relative; from StackOverflow */
+text-align: left; /* from stackoverflow */
+
+  /*下面两行是为了左右分栏*/
+display: flex;  /* from https://github.com/SalarAsker/csstips/blob/main/left_right_menu/styles.css  */
+justify-content: space-between;  /* from https://github.com/SalarAsker/csstips/blob/main/left_right_menu/styles.css  */
+}
+
+/*
+/*from https://stackoverflow.com/questions/41560136/how-to-align-all-but-one-navbar-items-left-starting-at-left-margin-with-fixed */
+#nav ul {
+  width: 100%;
+  padding: 0;
+  /* background-color: #ccc;*/ /*深夜改*/
+  overflow: hidden;
+}
+ #nav ul li {
+  float: left;
+  list-style: none;
+  box-sizing: border-box;
+  min-width: 100px;
+  max-width: 133px;
+  padding: 5px 10px; 
+} 
+  /* only to make it look better */
+
+/* #nav ul li:last-child {
+  float: right;
+  text-align: right;
+} */
+
+.nav-item {
+  float: left;
+}
+
+.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  background-color: #111;
+}
+
+
+
+/* !左右分栏的配置在此开始! */
+
+/* target the ul and remove the bullets */
+.right-side, .left-side{
+    list-style-type: none;
+    
+    background-color: #333; /**/
+    margin: 0 auto; /*此行重要*/
+/*     overflow: hidden; */
+  /*     width: 100%;
+    padding: 0; */
+
+}
+/* change li display property from block to inline block */
+/* li 是button 的外面包的一圈*/
+.right-side li, .left-side li{
+  display: inline-block;
+  float: left; /*深夜改*/
+  list-style: none;
+/*   box-sizing: border-box;
+  min-width: 100px;
+  max-width: 133px;
+  padding: 5px 10px;  */ /*去掉这些很重要 不然会强制换行*/
+
+  box-sizing: border-box;
+  background-color: #333; /**/
+
+}
+
+/* 按钮的文字 */
+.right-side li a, .left-side li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+}
+/* 按钮的文字 悬停时候*/
+.right-side li a:hover, .left-side li a:hover  {
+  background-color: #111; /*悬停变黑色*/
+  text-decoration: underline;
+}
+
+
+
+/*from gpt */
+
+
+/*
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 14px; 
+  overflow: hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+*/
+
+
+

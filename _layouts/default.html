@@ -2,24 +2,32 @@
 <html lang="en-us">
 
   {% include head.html %}
-
+  
   <body>
 
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
+    
     <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <a>{{ site.tagline }}</a>
+      <br></br> <!--没masthead了补空行 -->
+      <!--如果没有masthead的话 <div class="masthead">  里放以下内容 -->
+        <!--<div class="container">  
+          <h3 class="masthead-title"> -->
+            <!-- <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a> -->
+            <!--<a>{{ site.tagline }}</a> --> 
+               <!-- <nav>
+                <ul class="navbar">
+                <li class="nav-item"><a href="/"></a></li>
+                </ul>
+               </nav> --> 
+               <!--<link rel="stylesheet" type="text/css" href="/masthead_nav_style.css">  
             <!-- <small>{{ site.tagline }}</small> -->
-          </h3>
-        </div>
-      </div>
-
+       <!--   </h3> 
+        </div> -->
+      </div> 
+      
       <div class="container content">
         {{ content }}
       </div>
