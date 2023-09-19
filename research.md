@@ -5,8 +5,8 @@ title: Research
 
 ___
 
-### Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
-
+## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
+___
 *[Job Market Paper](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)*  
 <i>Download [draft](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)</i>
 <br>
@@ -36,6 +36,13 @@ ___
 ![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png)
 
 <br>
+
+
+### The Intergenerational Effect of Malaria Eradication 
+*Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
+
+### The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
+*joint with Songjun Jiang*
 
 
 
