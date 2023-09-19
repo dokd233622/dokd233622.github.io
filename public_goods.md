@@ -6,12 +6,11 @@ title: Public Goods
 ___
 
 <br>
-**Intro to Microeconomics** *Teaching Fellow*  
-EC101 Boston University (Spring & Fall 2022)
 
-**Intermediate Micro** *Teaching Fellow* <br>
-UA10 New York University (Fall 2021 Go Local Program in Shanghai) <br>
-[Review Slides](https://www.dropbox.com/s/1x04v0bm2dqeh1v/Intermediate_Micro_review_UA10.pdf?dl=0)
 
-**Microeconomics (Master)** *Teaching Fellow* <br>
-EC501 Boston University (Fall 2021)
+**Jianshu Postings** *Sample data* <br>
+Posts from 90K users on jianshu.com, scraped in 2021 <br>
+[Download](https://www.dropbox.com/scl/fi/zu7itq9jjkvf4x8blneoo/_0209_29k_no12.dta?rlkey=rxslvlv80t2x00fpxd83jq9gm&dl=0)
+[User List](https://www.dropbox.com/scl/fi/wv57c0di65u8orddfj1rt/0208list_f.dta?rlkey=nszasfjv35okwtt005uu2nxn5&dl=0)
+
+
