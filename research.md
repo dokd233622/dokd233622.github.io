@@ -1,6 +1,6 @@
 ---
 layout: page
-title: &nbsp
+title: &nbsp &nbsp
 ---
 
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
