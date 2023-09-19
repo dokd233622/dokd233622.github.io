@@ -5,8 +5,7 @@ title: Research
 
 ___
 
-## Life-saving Fundraising:
-### Is Donor Generosity Merit-based or Need-based?
+### Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
 
 *[Job Market Paper](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)*  
 <i>Download [draft](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)</i>
