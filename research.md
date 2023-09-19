@@ -20,7 +20,7 @@ ___
 ![Academic Merit Effect on Donation](/assets/coltier0918.png)
 
 <br>
-### Social Learning in Policy Making 
+## Social Learning in Policy Making 
 
 <br>
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
@@ -36,10 +36,10 @@ ___
 <br>
 
 
-### The Intergenerational Effect of Malaria Eradication 
+## The Intergenerational Effect of Malaria Eradication 
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
 
-### The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
+## The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
 *Joint with Songjun Jiang*
 
 * Using synthetic control methods, we estimated the economic impact of a crackdown on prostitution in Dongguan. 
