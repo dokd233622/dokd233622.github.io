@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: &nbsp
 ---
 
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
@@ -40,7 +40,13 @@ ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
 
 ### The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
-*joint with Songjun Jiang*
+*Joint with Songjun Jiang*
+
+* Using synthetic control methods, we estimated the economic impact of a crackdown on prostitution in Dongguan. 
+* Tourism suffered a major blow due to the removal of the sex industry and increased law enforcement
+* As collateral damage, we document a reduction in entertainment consumption for local households by a diff-in-diff strategy
+* Using a spatial diff-in-diff, we explore its economic impact at the block level
+
 
 
 
