@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _Research_
+title: Research
 ---
 <br>
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
