@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Research**
+title: _Research_
 ---
 <br>
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
@@ -38,7 +38,7 @@ ___
 
 
 
-## The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution
+## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
 *Joint with Songjun Jiang*
 
