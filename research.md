@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <br>
+title: Research
 ---
-
+<br>
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
 ___
 *[Job Market Paper](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)*  
@@ -36,8 +36,7 @@ ___
 <br>
 
 
-## The Intergenerational Effect of Malaria Eradication 
-*Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
+
 
 ## The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
 *Joint with Songjun Jiang*
@@ -46,8 +45,10 @@ ___
 * Tourism suffered a major blow due to the removal of the sex industry and increased law enforcement
 * As collateral damage, we document a reduction in entertainment consumption for local households by a diff-in-diff strategy
 * Using a spatial diff-in-diff, we explore its economic impact at the block level
+<br>
 
-
+## The Intergenerational Effect of Malaria Eradication 
+*Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
 
 
 
