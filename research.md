@@ -21,7 +21,7 @@ ___
 
 <br>
 ## Social Learning in Policy Making 
-
+___
 <br>
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
 <i>Download [Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)</i>
@@ -38,7 +38,8 @@ ___
 
 
 
-## The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution”
+## The Economic Impact of Closing Illicit Markets: Evidence from China’s Crackdown on Prostitution
+___
 *Joint with Songjun Jiang*
 
 * Using synthetic control methods, we estimated the economic impact of a crackdown on prostitution in Dongguan. 
@@ -48,6 +49,7 @@ ___
 <br>
 
 ## The Intergenerational Effect of Malaria Eradication 
+___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
 
 
