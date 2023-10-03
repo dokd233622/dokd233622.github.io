@@ -48,6 +48,7 @@ ___
 * Using a spatial diff-in-diff, we explore its economic impact at the block level
 <br>
 
+
 ## The Intergenerational Effect of Malaria Eradication 
 ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
