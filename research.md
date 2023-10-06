@@ -49,6 +49,15 @@ ___
 <br>
 
 
+<br>
+## Ballot Order Effect without (Open) Election 
+___
+<br>
+I documented that Chinese officials with fewer strokes in the family name, and thus with the name appearing early in a roster, are overrepresented at the top leadership body(central committee). The overrepresentation relative to the population (and to the top scientists) is largely driven by names with the fewest 24% strokes (≤ 6 strokes) and is more pronounced for names with fewer strokes. A minor effect is found for less powerful members of the NPC and CPPCC. This roster order effect suggests limited attention of officials in charge of appointment or involved in the party's personnel selection process. The advantage of name order in politicians' career advancement is not unique to open elections.
+<br> 
+
+![Roster Order Effect](/assets/roster_order.png)
+
 ## The Intergenerational Effect of Malaria Eradication 
 ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
